@@ -1,0 +1,11 @@
+apple $1
+banana $2
+lettuce $4
+coke $1
+water $2
+mangoes $6
+oranges $10
+carrots $3
+milk $9
+bread $12
+butter $5
